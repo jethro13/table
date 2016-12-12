@@ -1,0 +1,9 @@
+table, th, tr, td {
+  border: 2px solid gold;
+  border-collapse: collapse;
+  background-color: black;
+  color:white;
+  font-family: impact;
+  padding: 2px;
+  text-align: center;
+}
